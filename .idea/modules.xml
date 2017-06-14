@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Tensorflow Model on Android.iml" filepath="$PROJECT_DIR$/.idea/Tensorflow Model on Android.iml" />
+      <module fileurl="file://D:\PROJECTS\Tensorflow_Model_on_Android\.idea\Tensorflow Model on Android.iml" filepath="D:\PROJECTS\Tensorflow_Model_on_Android\.idea\Tensorflow Model on Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tensorflow_Model_on_Android.iml" filepath="$PROJECT_DIR$/.idea/Tensorflow_Model_on_Android.iml" />
     </modules>
   </component>
 </project>

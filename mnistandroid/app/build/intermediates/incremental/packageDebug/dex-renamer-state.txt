@@ -1,0 +1,7 @@
+#Thu Jun 15 00:51:16 BDT 2017
+base.0=D\:\\PROJECTS\\Tensorflow_Model_on_Android\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_06cb5dcae4d315bef882e14076b96bcedc2ce84c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\PROJECTS\\Tensorflow_Model_on_Android\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_152a68307a3e33cafd63d5da5924c92ce10014fa\\classes.dex
+base.1=D\:\\PROJECTS\\Tensorflow_Model_on_Android\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_152a68307a3e33cafd63d5da5924c92ce10014fa
+file.0=D\:\\PROJECTS\\Tensorflow_Model_on_Android\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_06cb5dcae4d315bef882e14076b96bcedc2ce84c\\classes.dex
